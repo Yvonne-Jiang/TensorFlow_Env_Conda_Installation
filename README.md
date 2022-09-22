@@ -3,6 +3,7 @@
 ### 创建环境 Create the Environment
 
 打开Terminal终端，输入 
+
 Open the Terminal and type
 ```
 conda create -n tf tensorflow
